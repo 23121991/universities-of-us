@@ -1,0 +1,40 @@
+div{
+    size: 40px;
+    text-align:center;
+background-color: rgb(142, 234, 142);
+
+}
+button{
+    background-color: rgb(62, 216, 227);
+    color: brown;
+    padding-left: 2px;
+
+    
+}
+h4{
+
+    font-size: 60px;
+    font-weight: 100;
+    color: rgba(24, 63, 69, 0.427);
+    font-style: italic;
+    font-feature-settings: "c2pc";
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(246, 155, 58);
+}
+
+
+
+div#domains{
+    font-size: 40px;
+color: red;
+}
+div#alpha_two_code{
+    font-size: 30px;
+    color: chartreuse;
+}
+
+
+input#country{
+    color:rgb(43, 49, 226);
+    background-color: cornsilk;
+}
